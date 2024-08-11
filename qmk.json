@@ -1,4 +1,6 @@
 {
     "userspace_version": "1.0",
-    "build_targets": []
+    "build_targets": [
+        ["ibm/model_m/ctrl_m", "nuess0r"]
+    ]
 }
